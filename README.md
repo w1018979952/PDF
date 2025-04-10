@@ -14,4 +14,4 @@ If you think this toolkit or the results are helpful to you and your research, p
 
 ## Contact
 
-- [Jiaxiang Wang]: Netizenwjx@foxmail.com
+- [Jiaxiang Wang](https://scholar.google.com/citations?hl=en&user=WPbdDRoAAAAJ): Netizenwjx@foxmail.com
