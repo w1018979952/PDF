@@ -1,5 +1,7 @@
 If you think this toolkit or the results are helpful to you and your research, please cite us!
 
+If you are interested in our mission, you can contact us for data sharing.
+
 ```
 @inproceedings{ma2025prototype,
   title={Prototype transferred diverse features for day-night cross-domain facial expression recognition},
